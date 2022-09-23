@@ -1,2 +1,2 @@
 # Scientific-Document-Summarization
-# Summarization of Scientific Texts using PGN
+# Research project to fine tune T5, BART and PEGASUS for the task of scientific document summarisation
